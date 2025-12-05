@@ -1,0 +1,34 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.8</VERSION>
+ <DEVICE>"ATmega328P"</DEVICE>
+ <WORKING_DIR>C:\Users\hazel\Desktop\Assembly Class\Blink\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\hazel\Desktop\Assembly Class\Blink\blink.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc\m328Pdef.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\hazel\Desktop\Assembly Class\Blink\Debug\Blink.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>Blink.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>Blink.map</FILE>
+  <FILE>Blink.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <main><FILE>C:\Users\hazel\Desktop\Assembly Class\Blink\blink.asm</FILE><LINE>9</LINE></main>
+  <main_loop><FILE>C:\Users\hazel\Desktop\Assembly Class\Blink\blink.asm</FILE><LINE>17</LINE></main_loop>
+  <delay><FILE>C:\Users\hazel\Desktop\Assembly Class\Blink\blink.asm</FILE><LINE>33</LINE></delay>
+  <end_main><FILE>C:\Users\hazel\Desktop\Assembly Class\Blink\blink.asm</FILE><LINE>28</LINE></end_main>
+  <wait_1s><FILE>C:\Users\hazel\Desktop\Assembly Class\Blink\blink.asm</FILE><LINE>37</LINE></wait_1s>
+  <wait_1s_1><FILE>C:\Users\hazel\Desktop\Assembly Class\Blink\blink.asm</FILE><LINE>40</LINE></wait_1s_1>
+  <wait_1s_2><FILE>C:\Users\hazel\Desktop\Assembly Class\Blink\blink.asm</FILE><LINE>43</LINE></wait_1s_2>
+  <wait_1s_3><FILE>C:\Users\hazel\Desktop\Assembly Class\Blink\blink.asm</FILE><LINE>46</LINE></wait_1s_3>
+ </LABELS>
+</ASSEMBLER_INFO>
