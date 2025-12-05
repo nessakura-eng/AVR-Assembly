@@ -1,0 +1,30 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.8</VERSION>
+ <DEVICE>"ATmega328P"</DEVICE>
+ <WORKING_DIR>C:\Users\hazel\OneDrive\Desktop\Assembly Class\ConditionalBranching1\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\hazel\OneDrive\Desktop\Assembly Class\ConditionalBranching1\ConditionalBranching1.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc\m328Pdef.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\hazel\OneDrive\Desktop\Assembly Class\ConditionalBranching1\Debug\ConditionalBranching1.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>ConditionalBranching1.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>ConditionalBranching1.map</FILE>
+  <FILE>ConditionalBranching1.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <main><FILE>C:\Users\hazel\OneDrive\Desktop\Assembly Class\ConditionalBranching1\ConditionalBranching1.asm</FILE><LINE>11</LINE></main>
+  <X_LT_50><FILE>C:\Users\hazel\OneDrive\Desktop\Assembly Class\ConditionalBranching1\ConditionalBranching1.asm</FILE><LINE>19</LINE></X_LT_50>
+  <end_main><FILE>C:\Users\hazel\OneDrive\Desktop\Assembly Class\ConditionalBranching1\ConditionalBranching1.asm</FILE><LINE>28</LINE></end_main>
+  <X_LT_24><FILE>C:\Users\hazel\OneDrive\Desktop\Assembly Class\ConditionalBranching1\ConditionalBranching1.asm</FILE><LINE>25</LINE></X_LT_24>
+ </LABELS>
+</ASSEMBLER_INFO>
