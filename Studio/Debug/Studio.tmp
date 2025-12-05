@@ -1,0 +1,28 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.8</VERSION>
+ <DEVICE>"ATmega328P"</DEVICE>
+ <WORKING_DIR>C:\Users\hazel\OneDrive\Desktop\Assembly Class\Studio\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\hazel\OneDrive\Desktop\Assembly Class\Studio\studio.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc\m328Pdef.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\hazel\OneDrive\Desktop\Assembly Class\Studio\Debug\Studio.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>Studio.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>Studio.map</FILE>
+  <FILE>Studio.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <main><FILE>C:\Users\hazel\OneDrive\Desktop\Assembly Class\Studio\studio.asm</FILE><LINE>11</LINE></main>
+  <end_main><FILE>C:\Users\hazel\OneDrive\Desktop\Assembly Class\Studio\studio.asm</FILE><LINE>22</LINE></end_main>
+ </LABELS>
+</ASSEMBLER_INFO>
