@@ -1,4 +1,4 @@
-# Traffic Light Simulation
+# Traffic Light Simulation Project
 A class project intended to simulate an intersection made in AVR Assembly on an Arduino UNO3 with an ATMega328p microcontroller.
 
 ## Scenario
