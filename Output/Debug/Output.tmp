@@ -1,0 +1,33 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.8</VERSION>
+ <DEVICE>"ATmega328P"</DEVICE>
+ <WORKING_DIR>C:\Users\hazel\Desktop\Assembly Class\Output\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\hazel\Desktop\Assembly Class\Output\output.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc\m328Pdef.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\hazel\Desktop\Assembly Class\Output\Debug\Output.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>Output.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>Output.map</FILE>
+  <FILE>Output.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <main><FILE>C:\Users\hazel\Desktop\Assembly Class\Output\output.asm</FILE><LINE>16</LINE></main>
+  <main_loop><FILE>C:\Users\hazel\Desktop\Assembly Class\Output\output.asm</FILE><LINE>24</LINE></main_loop>
+  <delay><FILE>C:\Users\hazel\Desktop\Assembly Class\Output\output.asm</FILE><LINE>39</LINE></delay>
+  <end_main><FILE>C:\Users\hazel\Desktop\Assembly Class\Output\output.asm</FILE><LINE>34</LINE></end_main>
+  <wait_1s_1><FILE>C:\Users\hazel\Desktop\Assembly Class\Output\output.asm</FILE><LINE>45</LINE></wait_1s_1>
+  <wait_1s_2><FILE>C:\Users\hazel\Desktop\Assembly Class\Output\output.asm</FILE><LINE>48</LINE></wait_1s_2>
+  <wait_1s_3><FILE>C:\Users\hazel\Desktop\Assembly Class\Output\output.asm</FILE><LINE>51</LINE></wait_1s_3>
+ </LABELS>
+</ASSEMBLER_INFO>
